@@ -1,6 +1,8 @@
 # blr_step_aic_forward
 Stepwise AIC forward selection Use blr_step_aic_forward (blorr) With (In) R Software
 
+https://www.youtube.com/watch?v=rQzVNAwrLTA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
